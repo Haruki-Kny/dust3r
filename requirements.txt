@@ -11,3 +11,5 @@ trimesh
 tensorboard
 pyglet<2
 huggingface-hub[torch]>=0.22
+rerun
+requests
